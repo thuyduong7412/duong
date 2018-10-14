@@ -1,0 +1,3 @@
+| ID  | NAME                | FAC/DEPT       | DEG/POS        | T.HOURS/W.DAYS      | SAL RATIO           | ALLOWANCE      | SALARY         | 
+| 1   | Nguyen Duong        | KE TOAN        | HEAD           | 2                   | 1.0                 | 2000           | 2790.0         | 
+| 2   | CAI Hue             | 2              | BACHELOR       | 54                  | 1.0                 | 300            | 3460.0         | 
