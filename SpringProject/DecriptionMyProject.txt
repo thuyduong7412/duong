@@ -1,0 +1,7 @@
+My Demo is combination of the following frameworks and Applications:
+- Maven Application
+- Spring MVC
+- Spring Security
+- Hibernate
+- RESTful API
+- Database: My SQL

@@ -1,0 +1,18 @@
+body {
+	background-color: lightblue;
+}
+
+.container {
+	max-width: 500px;
+	margin: 10% 20%;
+	padding: 10px;
+}
+
+h2 {
+	font-weight: bold;
+	color: hsl(220, 100%, 30%);
+}
+
+input {
+	margin: 10px;
+}
